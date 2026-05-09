@@ -1,0 +1,16 @@
+{
+  "routes": [
+    {
+      "name": "首页",
+      "dest": "/"
+    },
+    {
+      "name": "代码片段",
+      "dest": "/snippets"
+    },
+    {
+      "name": "编辑器",
+      "dest": "/editor"
+    }
+  ]
+}
